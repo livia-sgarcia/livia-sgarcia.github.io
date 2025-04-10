@@ -82,4 +82,9 @@ main a:hover{
         padding: 10px 0;
         box-shadow: 5px 5px #eeaeCa;
     }
+    .footer{
+        position: absolute;
+        bottom: 0px;
+        color: #fff;
+    }
 }
